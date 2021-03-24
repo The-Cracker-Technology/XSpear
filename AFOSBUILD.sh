@@ -1,5 +1,3 @@
-rm -rf .git*
-
 gem build XSpear.gemspec
 
-gem install XSpear*.gem
+gem install XSpear-*.gem
